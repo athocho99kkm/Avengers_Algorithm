@@ -90,12 +90,6 @@ include 'components/add_cart.php';
 
 
 
-
-
-
-
-
-
 <!-- footer section starts  -->
 <?php include 'components/footer.php'; ?>
 <!-- footer section ends -->
