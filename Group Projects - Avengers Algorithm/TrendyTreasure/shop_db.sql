@@ -129,13 +129,11 @@ CREATE TABLE `users` (
 --
 ALTER TABLE `admin`
   ADD PRIMARY KEY (`id`);
-
 --
 -- Indexes for table `cart`
 --
 ALTER TABLE `cart`
   ADD PRIMARY KEY (`id`);
-
 --
 -- Indexes for table `messages`
 --
