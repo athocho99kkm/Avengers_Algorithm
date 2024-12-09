@@ -72,16 +72,6 @@ include 'components/add_cart.php';
 
 
 
-
-
-
-
-
-
-
-
-
-
 <?php include 'components/footer.php'; ?>
 
 
