@@ -36,7 +36,6 @@ if(isset($message)){
          <div id="user-btn" class="fas fa-user"></div>
          <div id="menu-btn" class="fas fa-bars"></div>
       </div>
-
       <div class="profile">
          <?php
             $select_profile = $conn->prepare("SELECT * FROM `users` WHERE id = ?");
